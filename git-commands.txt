@@ -1,0 +1,25 @@
+  715  git init
+  716  git status
+  717  git add testing.py
+  718  git status
+  719  git commit -m "added testing.py file"
+  720  git config --global vaishnav3773
+  721  git config --global Vais
+  722  git config --global "Vaishnav3773"
+  723  git config --global Vaishnav3773 "Vaishnav"
+  724  git config --global vaishnavnandarage@gmail.com  "Vaishnav"
+  725  git config --global user.email vaishnavnandarage@gmail.com  "Vaishnav"
+  726  git commit -m "added testing.py file"
+  727  git status
+  728  rm testing.py
+  729  ls
+  730  git restore testing.py
+  731  ls
+  732  rm testing.pty
+  733  rm testing.py
+  734  ls
+  735  git restore testing.py
+  736  ls
+  737  git status
+  738  clear
+  739  history
